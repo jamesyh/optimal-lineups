@@ -11,7 +11,7 @@ Prior<br/>
 Good:<br/>
 ![alt text](https://github.com/jamesyh/optimal-lineups/blob/master/images/BOS.jpg)<br/>
 Bad:<br/>
-![alt text](https://github.com/jamesyh/optimal-lineups/blob/master/images/BOS.jpg)<br/>
+![alt text](https://github.com/jamesyh/optimal-lineups/blob/master/images/NJN.jpg)<br/>
 Interesting:<br/>
 ![alt text](https://github.com/jamesyh/optimal-lineups/blob/master/images/OKC.jpg)<br/>
 ![alt text](https://github.com/jamesyh/optimal-lineups/blob/master/images/WAS.jpg)<br/>
