@@ -2,7 +2,7 @@
 Do coaches naturally find the optimal lineup in the NBA.
 
 # Introduction
-There is no one who knows a NBA team better than the coach. Coaches are tasked with training their players, preparing for games, and managing games. The question that I pose is are coaches inherently finding and using their best lineup of players. Or could they be allocating minutes to better lineups.
+There is no one who knows a NBA team better than the coach. Coaches are tasked with training their players, preparing for games, and managing games. The question that I pose is are coaches inherently finding and using their best lineup of players or could they be allocating minutes to better lineups.
 
 # Model
 
