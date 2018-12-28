@@ -6,7 +6,7 @@ There is no one who knows a NBA team better than the coach. Coaches are tasked w
 
 # Model
 
-For this project we 
+For this project we only included a teams lineup if it appeared in at least 3 games. The dependent variable is wether or not the team scored on a shot. We used a Bernoulli likelihood to model the data, with parameter![theta](https://latex.codecogs.com/gif.latex?%7B%5Ctheta_i%7D) where i goes from 1 to the number of unique five player lineups a team has.
 
 Model 1<br/>
 Likelihood<br/>
