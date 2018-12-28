@@ -22,10 +22,12 @@ I wanted to see if the lineup that was used the most was also the most efficient
 
 For the results i've included plots of the posterior distribution for each lineup of a team. The highest probability of scoring lineup is red and the most used lineup is blue. For this write up I have only included a few teams distribution. I've included every plot in the  [images](https://github.com/jamesyh/optimal-lineups/tree/master/images) folder.
 
+
+
 Good:<br/>
 ![alt text](https://github.com/jamesyh/optimal-lineups/blob/master/images/BOS.jpg)<br/>
 Bad:<br/>
-![alt text](https://github.com/jamesyh/optimal-lineups/blob/master/images/NJN.jpg)<br/>
+![alt text](https://github.com/jamesyh/optimal-lineups/blob/master/images/CLE.jpg)<br/>
 Interesting:<br/>
 ![alt text](https://github.com/jamesyh/optimal-lineups/blob/master/images/OKC.jpg)<br/>
 ![alt text](https://github.com/jamesyh/optimal-lineups/blob/master/images/WAS.jpg)<br/>
