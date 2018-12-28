@@ -5,7 +5,6 @@ Do coaches naturally find the optimal lineup in the NBA.
 There is no one who knows a NBA team better than the coach. Coaches are tasked with training their players, preparing for games, and managing games. The question that I pose is are coaches inherently finding and using their best lineup of players or could they be allocating minutes to better lineups.
 
 
-=======
 # Model
 
 For this project, we only included a team’s lineup if it appeared in at least 3 games. The dependent variable is whether or not the team scored on a shot. We used a Bernoulli likelihood to model the data, with parameter ![theta](https://latex.codecogs.com/gif.latex?%7B%5Ctheta_i%7D) where i goes from 1 to the number of unique five player lineups a team has. We used a beta prior with parameters 1 and 1 for each ![theta](https://latex.codecogs.com/gif.latex?%7B%5Ctheta%7D).
